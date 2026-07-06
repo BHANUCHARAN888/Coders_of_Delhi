@@ -89,14 +89,6 @@ Through this project, I learned how to:
 - Organize Python code into reusable functions
 - Solve real-world data problems without external libraries
 
-## Future Improvements
-
-- Implement the same project using Pandas
-- Add data visualization using Matplotlib
-- Build a web interface using Flask or FastAPI
-- Store data in SQL
-- Improve recommendation algorithms
-
 ## Author
 
 **Bhanu Charan Kalla**
